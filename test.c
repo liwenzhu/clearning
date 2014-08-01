@@ -15,7 +15,13 @@ int main() {
 	return 0;
 }
 
+// like lastIndexOf
+int strrindex (char s[], char t[]) {
+
+}
+
 // any is like indexOf
+// rewrite this funciton
 int any(char s1[], char s2[]) {
 	int i,j;
 	int index;
